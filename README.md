@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Harsh Pandey! 👋
+
+Computer Science student specializing in Data Science with skills in Python, Java, Node.js. Passionate about solving complex problems and building scalable, data-driven solutions.
 
 <!--
 **rn-harsh04/rn-harsh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
